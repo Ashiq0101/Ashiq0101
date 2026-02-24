@@ -3,7 +3,7 @@
   <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2070&auto=format&fit=crop" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashiq</h1>
+<h1 align="center">Hi 👋, I'm Ashik</h1>
 <h3 align="center">Software Developer | Machine Learning & AI Enthusiast</h3>
 
 ---
