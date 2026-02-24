@@ -1,6 +1,6 @@
 <!-- Clean AI Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/masterAssets/main/banner.png" width="100%" />
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" width="100%" />
 </p>
 
 <h1 align="center">Ashiq</h1>
