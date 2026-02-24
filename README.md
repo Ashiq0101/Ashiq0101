@@ -67,9 +67,12 @@ Strong interest in Machine Learning, Deep Learning, and system-level engineering
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashiq101&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiq101&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashiq101&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiq101&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
