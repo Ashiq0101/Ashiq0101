@@ -15,14 +15,14 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## Professional Summary
 
 Computer Science undergraduate focused on building scalable software systems and intelligent AI-driven solutions.  
 Strong interest in Machine Learning, Deep Learning, and system-level engineering.
 
 ---
 
-## 🧠 Technical Focus
+## Technical Focus
 
 - Machine Learning & Deep Learning  
 - AI System Design  
@@ -31,9 +31,9 @@ Strong interest in Machine Learning, Deep Learning, and system-level engineering
 - Research-Oriented AI Development  
 
 ---
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -50,7 +50,7 @@ Strong interest in Machine Learning, Deep Learning, and system-level engineering
 
 ---
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
 ![Image Processing](https://img.shields.io/badge/Image_Processing-FF6F00?style=for-the-badge)
