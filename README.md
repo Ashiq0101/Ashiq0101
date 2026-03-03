@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-Computer Science undergraduate and active GitHub contributor since November 2023, focused on building scalable software systems and intelligent AI-driven solutions.  
+Computer Science undergraduate and GitHub contributor since November 2023, focused on building scalable software systems and intelligent AI-driven solutions.  
 Strong interest in Machine Learning, Deep Learning, and system-level engineering.
 
 ---
@@ -68,19 +68,15 @@ Strong interest in Machine Learning, Deep Learning, and system-level engineering
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashiq0101&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashiq0101&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiq0101&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashiq0101&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashiq0101&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashiq0101&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiq0101&theme=github-dark&hide_border=true" />
 </p>
 
 ---
