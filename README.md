@@ -11,13 +11,14 @@
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
   </a>
   <img src="https://img.shields.io/badge/Location-Bangladesh-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Active-Since_Nov_2023-black?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
 ## Professional Summary
 
-Computer Science undergraduate focused on building scalable software systems and intelligent AI-driven solutions.  
+Computer Science undergraduate and active GitHub contributor since November 2023, focused on building scalable software systems and intelligent AI-driven solutions.  
 Strong interest in Machine Learning, Deep Learning, and system-level engineering.
 
 ---
@@ -31,9 +32,10 @@ Strong interest in Machine Learning, Deep Learning, and system-level engineering
 - Research-Oriented AI Development  
 
 ---
+
 ## Tech Stack
 
-###  Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -50,18 +52,20 @@ Strong interest in Machine Learning, Deep Learning, and system-level engineering
 
 ---
 
-###  AI & Machine Learning
+### AI & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
 ![Image Processing](https://img.shields.io/badge/Image_Processing-FF6F00?style=for-the-badge)
-![XAI](https://img.shields.io/badge/Explainable_AI-XAI-blueviolet?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-XAI-blueviolet?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ---
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 ---
 
 ## 📊 GitHub Analytics
