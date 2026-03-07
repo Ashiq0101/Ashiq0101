@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I am Ashiq</h1>
-<h3 align="center">Software Engineer | Machine Learning & AI Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | Machine Learning & AI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:aaashiq1100@gmail.com">
